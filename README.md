@@ -15,8 +15,7 @@ I'm a passionate programmer with experience in C, C#, HTML, and other languages.
 
 ## 📫 How to Reach Me
 - Email: goncalo@example.com
-- LinkedIn: [https://www.linkedin.com/in/goncalo](https://www.linkedin.com/in/gon%C3%A7alo-diogo-9059552a4/](https://www.linkedin.com/in/gon%C3%A7alo-diogo-9059552a4/)
-
+- LinkedIn: (https://www.linkedin.com/in/gon%C3%A7alo-diogo-9059552a4/)
 ## ⚡ Fun Fact
 - I love combining my passion for sports and technology by developing apps that track fitness progress and football statistics.
 
